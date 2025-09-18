@@ -1,0 +1,12 @@
+{
+  "name": "sevenai_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -d && node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
